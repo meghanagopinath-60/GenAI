@@ -1,4 +1,3 @@
-# GenAI
 # TNSDC-GENERATIVE-AI-NAAN-MUDHALVAN
 
 ## Project Title: 
